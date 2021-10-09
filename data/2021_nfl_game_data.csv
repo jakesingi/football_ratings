@@ -15,3 +15,51 @@ Week,Game #,Home Team,Away Team,ID_Home,ID_Away,Home Score,Away Score,Margin
 1,14,Kansas City Chiefs,Cleveland Browns,15,7,33,29,4
 1,15,Los Angeles Rams,Chicago Bears,25,5,34,14,20
 1,16,Las Vegas Raiders,Baltimore Ravens,22,2,33,27,6
+2,17,Washington Football Team,New York Giants,31,20,30,29,1
+2,18,Chicago Bears,Cincinnati Bengals,5,6,20,17,3
+2,19,Carolina Panthers,New Orleans Saints,4,19,26,7,19
+2,20,Pittsburgh Steelers,Las Vegas Raiders,24,22,17,26,-9
+2,21,Philadelphia Eagles,San Francisco 49ers,23,27,11,17,-6
+2,22,New York Jets,New England Patriots,21,18,6,25,-19
+2,23,Miami Dolphins,Buffalo Bills,16,3,0,35,-35
+2,24,Jacksonville Jaguars,Denver Broncos,14,9,13,23,-10
+2,25,Indianapolis Colts,Los Angeles Rams,13,25,24,27,-3
+2,26,Cleveland Browns,Houston Texans,7,12,31,21,10
+2,27,Tampa Bay Buccaneers,Atlanta Falcons,29,1,48,25,23
+2,28,Arizona Cardinals,Minnesota Vikings,0,17,34,33,1
+2,29,Seattle Seahawks,Tennessee Titans,28,30,30,33,-3
+2,30,Los Angeles Chargers,Dallas Cowboys,26,8,17,20,-3
+2,31,Baltimore Ravens,Kansas City Chiefs,2,15,36,35,1
+2,32,Green Bay Packers,Detroit Lions,11,10,35,17,18
+3,33,Houston Texans,Carolina Panthers,12,4,9,24,-15
+3,34,Cleveland Browns,Chicago Bears,7,5,26,6,20
+3,35,Buffalo Bills,Washington Football Team,3,31,43,21,22
+3,36,Pittsburgh Steelers,Cincinnati Bengals,24,6,10,24,-14
+3,37,Tennessee Titans,Indianapolis Colts,30,13,25,16,9
+3,38,New York Giants,Atlanta Falcons,20,1,14,17,-3
+3,39,New England Patriots,New Orleans Saints,18,19,13,28,-15
+3,40,Kansas City Chiefs,Los Angeles Chargers,15,26,24,30,-6
+3,41,Jacksonville Jaguars,Arizona Cardinals,14,0,19,31,-12
+3,42,Detroit Lions,Baltimore Ravens,10,2,17,19,-2
+3,43,Las Vegas Raiders,Miami Dolphins,22,16,31,28,3
+3,44,Denver Broncos,New York Jets,9,21,26,0,26
+3,45,Los Angeles Rams,Tampa Bay Buccaneers,25,29,34,24,10
+3,46,Minnesota Vikings,Seattle Seahawks,17,28,30,17,13
+3,47,San Francisco 49ers,Green Bay Packers,27,11,28,30,-2
+3,48,Dallas Cowboys,Philadelphia Eagles,8,23,41,21,20
+4,49,Cincinnati Bengals,Jacksonville Jaguars,6,14,24,21,3
+4,50,Buffalo Bills,Houston Texans,3,12,40,0,40
+4,51,Atlanta Falcons,Washington Football Team,1,31,30,34,-4
+4,52,Philadelphia Eagles,Kansas City Chiefs,23,15,30,42,-12
+4,53,New York Jets,Tennessee Titans,21,30,27,24,3
+4,54,New Orleans Saints,New York Giants,19,20,21,27,-6
+4,55,Minnesota Vikings,Cleveland Browns,17,7,7,14,-7
+4,56,Miami Dolphins,Indianapolis Colts,16,13,17,27,-10
+4,57,Dallas Cowboys,Carolina Panthers,8,4,36,28,8
+4,58,Chicago Bears,Detroit Lions,5,10,24,14,10
+4,59,San Francisco 49ers,Seattle Seahawks,27,28,21,28,-7
+4,60,Los Angeles Rams,Arizona Cardinals,25,0,20,37,-17
+4,61,Green Bay Packers,Pittsburgh Steelers,11,24,27,17,10
+4,62,Denver Broncos,Baltimore Ravens,9,2,7,23,-16
+4,63,New England Patriots,Tampa Bay Buccaneers,18,29,17,19,-2
+4,64,Los Angeles Chargers,Las Vegas Raiders,26,22,28,14,14

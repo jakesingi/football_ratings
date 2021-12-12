@@ -164,3 +164,32 @@ Week,Game #,Home Team,Away Team,ID_Home,ID_Away,Home Score,Away Score,Margin
 11,163,Kansas City Chiefs,Dallas Cowboys,15,8,19,9,10
 11,164,Los Angeles Chargers,Pittsburgh Steelers,26,24,41,37,4
 11,165,Tampa Bay Buccaneers,New York Giants,29,20,30,10,20
+12,166,Detroit Lions,Chicago Bears,10,5,14,16,-2
+12,167,Dallas Cowboys,Las Vegas Raiders,8,22,33,36,-3
+12,168,New Orleans Saints,Buffalo Bills,19,3,6,31,-25
+12,169,New York Giants,Philadelphia Eagles,20,23,13,7,6
+12,170,New England Patriots,Tennessee Titans,18,30,36,13,23
+12,171,Miami Dolphins,Carolina Panthers,16,4,33,10,23
+12,172,Jacksonville Jaguars,Atlanta Falcons,14,1,14,21,-7
+12,173,Houston Texans,New York Jets,12,21,14,21,-7
+12,174,Indianapolis Colts,Tampa Bay Buccaneers,13,29,31,38,-7
+12,175,Cincinnati Bengals,Pittsburgh Steelers,6,24,41,10,31
+12,176,Denver Broncos,Los Angeles Chargers,9,26,28,13,15
+12,177,San Francisco 49ers,Minnesota Vikings,27,17,34,26,8
+12,178,Green Bay Packers,Los Angeles Rams,11,25,36,28,8
+12,179,Baltimore Ravens,Cleveland Browns,2,7,16,10,6
+12,180,Washington Football Team,Seattle Seahawks,31,28,17,15,2
+13,181,New Orleans Saints,Dallas Cowboys,19,8,17,27,-10
+13,182,Chicago Bears,Arizona Cardinals,5,0,22,33,-11
+13,183,Atlanta Falcons,Tampa Bay Buccaneers,1,29,17,30,-13
+13,184,New York Jets,Philadelphia Eagles,21,23,18,33,-15
+13,185,Miami Dolphins,New York Giants,16,20,20,9,11
+13,186,Houston Texans,Indianapolis Colts,12,13,0,31,-31
+13,187,Detroit Lions,Minnesota Vikings,10,17,29,27,2
+13,188,Cincinnati Bengals,Los Angeles Chargers,6,26,22,41,-19
+13,189,Seattle Seahawks,San Francisco 49ers,28,27,30,23,7
+13,190,Las Vegas Raiders,Washington Football Team,22,31,15,17,-2
+13,191,Los Angeles Rams,Jacksonville Jaguars,25,14,37,7,30
+13,192,Pittsburgh Steelers,Baltimore Ravens,24,2,20,19,1
+13,193,Kansas City Chiefs,Denver Broncos,15,9,22,9,13
+13,194,Buffalo Bills,New England Patriots,3,18,10,14,-4
